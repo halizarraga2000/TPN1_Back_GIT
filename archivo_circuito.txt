@@ -1,0 +1,5 @@
+# Archivo Circuito
+Intentamos armar un Circuito
+respecto a uC (Microcontroladores)
+Estamos usando 32 bits a 550 Mhz
+Usa ademas LCD, Pulsadores y Usart
