@@ -2,4 +2,5 @@
 La idea pricipal es tener 20 x 10 cm
 La Plaqueta usará 2 capas en epoxi
 Respecto de las comunicación seria:
-RS232, velocidad en 115200 bds, 8, N
+RS232, velocidad en 9600 bds, 8, P
+La plaqueta usara 6 cápas en epoxi
