@@ -1,5 +1,6 @@
 # Archivo Circuito
-Intentamos armar un Circuito
+Intentamos diseñar un Circuito
 respecto a uC (Microcontroladores)
 Estamos usando 32 bits a 550 Mhz
 Usa ademas LCD, Pulsadores y Usart
+Tambien debo poner una fuente a 3.3 Volts
